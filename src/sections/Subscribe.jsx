@@ -2,7 +2,7 @@
 const Subscribe = () => {
   return (
     <div>
-      
+      subscribe
     </div>
   )
 }
