@@ -1,9 +1,8 @@
 
 const Subscribe = () => {
   return (
-    <div>
-      subscribe
-    </div>
+    <section className="">
+    </section>
   )
 }
 
