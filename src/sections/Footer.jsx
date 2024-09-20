@@ -30,7 +30,7 @@ const Footer = () => {
               <ul>
                 {links.map(({name, link})=>(
                   <li key={name} className="mt-3 text-white-400 font-montserrat text-base leading-normal hover:text-slate-gray cursor-pointer">
-                    <a href="">{name}</a>
+                    <a href={link}>{name}</a>
                   </li>
                 ))}
               </ul>
